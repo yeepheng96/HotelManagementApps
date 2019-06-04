@@ -148,5 +148,6 @@ public class EditProfileActivity extends AppCompatActivity {
         names = findViewById(R.id.edname);
         phones = findViewById(R.id.edphone);
         emails = findViewById(R.id.fixedEmail);
+        image = findViewById(R.id.updateprofile);
     }
 }
