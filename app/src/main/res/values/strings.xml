@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">HotelManagementApps</string>
+    <string name="settings_menu_title">Settings</string>
+
+    <string-array name="location">
+        <item>All</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>12am</item>
+        <item>1230am</item>
+        <item>1am</item>
+        <item>130am</item>
+        <item>2am</item>
+        <item>230am</item>
+        <item>3am</item>
+        <item>330am</item>
+        <item>4am</item>
+        <item>430am</item>
+        <item>5am</item>
+        <item>530am</item>
+        <item>6am</item>
+        <item>630am</item>
+        <item>7am</item>
+        <item>730am</item>
+        <item>8am</item>
+        <item>830am</item>
+        <item>9am</item>
+        <item>930am</item>
+        <item>10am</item>
+        <item>1030am</item>
+        <item>11am</item>
+        <item>1130am</item>
+        <item>12pm</item>
+        <item>1230pm</item>
+        <item>1pm</item>
+        <item>130pm</item>
+        <item>2pm</item>
+        <item>230pm</item>
+        <item>3pm</item>
+        <item>330pm</item>
+        <item>4pm</item>
+        <item>430pm</item>
+        <item>5pm</item>
+        <item>530pm</item>
+        <item>6pm</item>
+        <item>630pm</item>
+        <item>7pm</item>
+        <item>730pm</item>
+        <item>8pm</item>
+        <item>830pm</item>
+        <item>9pm</item>
+        <item>930pm</item>
+        <item>10pm</item>
+        <item>1030pm</item>
+        <item>11pm</item>
+        <item>1130pm</item>
+    </string-array>
+</resources>
